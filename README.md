@@ -19,7 +19,7 @@ A Netflix front-end clone built using **ReactJS**, **Firebase Authentication**, 
 
 ## 📸 Preview
 
-![Netflix Clone Preview](./assets/readme-preview.png)  
+![https://netflix-clone-beta-eosin-96.vercel.app/](./assets/readme-preview.png)  
 _📌 Replace with your project preview screenshot._
 
 ---
